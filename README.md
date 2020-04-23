@@ -18,4 +18,4 @@ Niyam (means Rule in Hindi language) is a complete platform for Enterprise Busin
  
  
 ### Architecture 
-[<img src="https://github.com/sainib/niyam/raw/master/imgs/arch.png">]
+<img src="https://github.com/sainib/niyam/raw/master/imgs/arch.png">
