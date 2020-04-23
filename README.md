@@ -3,6 +3,8 @@
 ## It is not your mama's rules engine!
 
 ### Description : 
+Niyam (means Rule in Hindi language) is a complete platform for Enterprise Business Rules Management Platform. Unlike a language specific rules engine that results in fragment architecture because it cannot scale across programming languages and applications, Niyam works across the enterprise. 
+
 
 ### Requirements & Guiding Principles : 
 * Ability to create business rules centrally and apply externally to an application 
